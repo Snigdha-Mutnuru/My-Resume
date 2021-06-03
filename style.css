@@ -49,9 +49,17 @@ h2{
     display: grid;
     justify-items: end;
 }
+/* .header-left a{
+    text-decoration: none;
+    color: #000;
+} */
 
 .header-right p{
     display: inline;
+}
+.header-right a{
+    text-decoration: none;
+    color: #000;
 }
 
 .icon{
